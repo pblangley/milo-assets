@@ -1,0 +1,32 @@
+{
+  "moods": {
+    "waiting": "milo-waiting.png",
+    "restless": "milo-restless.png",
+    "happy": "milo-happy.png",
+    "sulking": "milo-sulking.png",
+    "asleep": "milo-asleep.png"
+  },
+  "onboarding": {
+    "calm": "milo-calm.png",
+    "lively": "milo-happy.png",
+    "veryActive": "milo-very-active.png",
+    "meet": "milo-meet.png"
+  },
+  "sniffPoses": {
+    "sniff-mid": {
+      "file": "milo-sniff-mid.png",
+      "noseX": 0.987,
+      "noseY": 0.333,
+      "height": "mid",
+      "facing": "right"
+    },
+    "sniff-high": {
+      "file": "milo-sniff-high.png",
+      "noseX": 0.983,
+      "noseY": 0.266,
+      "height": "mid",
+      "facing": "right"
+    }
+  },
+  "logo": "prove-logo.png"
+}
